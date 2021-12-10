@@ -1,0 +1,45 @@
+#bagian-1 {
+  background-image: url(img/parallax5.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+#bagian-1 h1 {
+  margin-top: 50px;
+  margin-bottom: 30px;
+  color: white;
+  text-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
+}
+
+#bagian-1 p {
+  color: white;
+  text-align: justify;
+}
+
+#bagian-1 img {
+  height: 280px;
+  margin-bottom: 5px;
+}
+#bagian-2 {
+  background-image: url(img/parallax5.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+#bagian-2 h1 {
+  margin-top: 100px;
+  margin-bottom: 30px;
+  color: white;
+  text-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
+}
+
+#bagian-2 p {
+  color: white;
+  text-align: justify;
+}
+
+#bagian-2 img {
+  height: 270px;
+  width: 545px;
+  margin-bottom: 5px;
+}
