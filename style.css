@@ -39,6 +39,12 @@
   font-family: 'Padauk', sans-serif;
 }
 
+#bagian-1 img {
+  height: 200px;
+  border-radius: 50%;
+  margin-bottom: 30px;
+}
+
 #bagian-1 p {
   text-align: justify;
   text-transform: capitalize;
