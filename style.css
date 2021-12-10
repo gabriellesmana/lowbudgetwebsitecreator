@@ -1,0 +1,603 @@
+/* NAVBAR */
+
+.navbar {
+  box-shadow: 0px 7px 7px rgb(250, 250, 250);
+  background-image: url(img/gradien.jpg);
+  background-size: cover;
+}
+
+.navbar-brand {
+  font-weight: bolder;
+  font-size: 15px;
+  text-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
+}
+
+.nav-link {
+  font-weight: bolder;
+  color: white !important;
+  text-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
+}
+
+/* AKHIR NAVBAR */
+
+/* BAGIAN 1 */
+
+#bagian-1 {
+  background-image: url(img/parallax5.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: 0px 0px;
+}
+
+#bagian-1 h1 {
+  margin-top: 80px;
+  margin-bottom: 30px;
+  color: white;
+  text-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
+  font-weight: bolder;
+  font-size: 25px;
+  font-family: 'Padauk', sans-serif;
+}
+
+#bagian-1 p {
+  text-align: justify;
+  text-transform: capitalize;
+  color: white;
+  text-shadow: 3px 3px 3px rgba(0, 0, 0, 1);
+  font-weight: 400;
+  font-size: 11px;
+  font-family: 'Padauk', sans-serif;
+}
+
+/* AKHIR BAGIAN 1 */
+
+/* BAGIAN 2 */
+
+#bagian-2 {
+  background-color: royalblue;
+}
+
+#bagian-2 img {
+  height: 100px;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+#bagian-2 h1 {
+  margin-top: 50px;
+  text-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
+  font-weight: bolder;
+  font-size: 25px;
+  font-family: 'Padauk', sans-serif;
+  color: white;
+}
+
+#bagian-2 p {
+  margin-bottom: -30px;
+  text-shadow: 3px 3px 3px rgba(0, 0, 0, 1);
+  font-weight: 400;
+  font-size: 11px;
+  text-transform: capitalize;
+  text-align: justify;
+  font-family: 'Padauk', sans-serif;
+  color: white;
+}
+
+#bagian-2 .responsive {
+  height: 100px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
+}
+
+/* AKHIR BAGIAN 2 */
+
+/* BAGIAN 3 */
+
+#bagian-3 {
+  background-color: royalblue;
+}
+
+#bagian-3 img {
+  height: 80px;
+  margin-top: 50px;
+  margin-bottom: 20px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
+}
+
+#bagian-3 h1 {
+  margin-top: 100px;
+  text-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
+  font-weight: bolder;
+  font-size: 25px;
+  font-family: 'Padauk', sans-serif;
+  color: white;
+}
+
+#bagian-3 p {
+  margin-bottom: -30px;
+  text-shadow: 3px 3px 3px rgba(0, 0, 0, 1);
+  font-weight: 400;
+  font-size: 11px;
+  text-transform: capitalize;
+  text-align: justify;
+  font-family: 'Padauk', sans-serif;
+  color: white;
+}
+
+/* AKHIR BAGIAN 3 */
+
+/* BAGIAN 4 */
+
+#bagian-4 {
+  background-color: royalblue;
+}
+
+#bagian-4 img {
+  height: 100px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
+}
+
+#bagian-4 h1 {
+  margin-top: 100px;
+  text-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
+  font-weight: bolder;
+  font-size: 25px;
+  font-family: 'Padauk', sans-serif;
+  color: white;
+}
+
+/* AKHIR BAGIAN 4 */
+
+/* BAGIAN 5 */
+
+#bagian-5 {
+  margin-top: -50px;
+  background-color: royalblue;
+}
+
+#bagian-5 h1 {
+  margin-top: 100px;
+  color: white;
+  text-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
+  font-weight: bolder;
+  font-size: 25px;
+  font-family: 'Padauk', sans-serif;
+}
+
+#bagian-5 p {
+  text-align: justify;
+  text-transform: capitalize;
+  color: white;
+  text-shadow: 3px 3px 3px rgba(0, 0, 0, 1);
+  font-weight: 400;
+  font-size: 11px;
+  font-family: 'Padauk', sans-serif;
+}
+
+/* AKHIR BAGIAN 5 */
+
+/* BAGIAN 6 */
+
+#bagian-6 {
+  margin-top: -50px;
+  background-color: royalblue;
+}
+
+#bagian-6 h1 {
+  margin-top: 100px;
+  color: white;
+  text-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
+  font-weight: bolder;
+  font-size: 25px;
+  font-family: 'Padauk', sans-serif;
+}
+
+#bagian-6 p {
+  text-align: justify;
+  text-transform: capitalize;
+  color: white;
+  text-shadow: 3px 3px 3px rgba(0, 0, 0, 1);
+  font-weight: 400;
+  font-size: 11px;
+  font-family: 'Padauk', sans-serif;
+}
+
+/* AKHIR BAGIAN 6 */
+
+/* BAGIAN 7 */
+
+#bagian-7 {
+  margin-top: -50px;
+  background-color: royalblue;
+}
+
+#bagian-7 h1 {
+  margin-top: 100px;
+  color: white;
+  text-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
+  font-weight: bolder;
+  font-size: 25px;
+  font-family: 'Padauk', sans-serif;
+}
+
+#bagian-7 p {
+  text-align: justify;
+  text-transform: capitalize;
+  color: white;
+  text-shadow: 3px 3px 3px rgba(0, 0, 0, 1);
+  font-weight: 400;
+  font-size: 11px;
+  font-family: 'Padauk', sans-serif;
+}
+
+/* AKHIR BAGIAN 7 */
+
+/* BAGIAN 8 */
+
+#bagian-8 {
+  margin-top: -50px;
+  background-color: royalblue;
+}
+
+#bagian-8 h1 {
+  margin-top: 100px;
+  color: white;
+  text-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
+  font-weight: bolder;
+  font-size: 25px;
+  font-family: 'Padauk', sans-serif;
+}
+
+#bagian-8 p {
+  text-align: justify;
+  text-transform: capitalize;
+  color: white;
+  text-shadow: 3px 3px 3px rgba(0, 0, 0, 1);
+  font-weight: 400;
+  font-size: 11px;
+  font-family: 'Padauk', sans-serif;
+}
+
+#bagian-8 img {
+  height: 100px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
+}
+
+/* AKHIR BAGIAN 8 */
+
+/* BAGIAN 9 */
+
+#bagian-9 {
+  background-image: url(img/parallax\ 3.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 0 -150px;
+}
+
+#bagian-9 h1 {
+  margin-top: 100px;
+  color: white;
+  text-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
+  font-weight: bolder;
+  font-size: 50px;
+  font-family: 'Padauk', sans-serif;
+}
+
+#bagian-9 p {
+  text-transform: capitalize;
+  color: white;
+  text-shadow: 3px 3px 3px rgba(0, 0, 0, 1);
+  font-weight: 400;
+  font-size: 21px;
+  font-family: 'Padauk', sans-serif;
+}
+
+/* AKHIR BAGIAN 9 */
+
+@media (min-width: 992px) {
+  /* NAVBAR */
+
+  .navbar {
+    box-shadow: 0px 7px 7px rgb(250, 250, 250);
+    background-image: url(img/gradien.jpg);
+    background-size: cover;
+  }
+
+  .navbar-brand {
+    font-weight: bolder;
+    font-size: 25px;
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
+  }
+
+  .nav-link {
+    font-weight: bolder;
+    color: white !important;
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
+  }
+
+  /* AKHIR NAVBAR */
+
+  /* BAGIAN 1 */
+
+  #bagian-1 {
+    background-image: url(img/parallax5.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: 0px -100px;
+  }
+
+  #bagian-1 h1 {
+    margin-top: 80px;
+    margin-bottom: 30px;
+    color: white;
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
+    font-weight: bolder;
+    font-size: 50px;
+    font-family: 'Padauk', sans-serif;
+  }
+
+  #bagian-1 p {
+    text-align: justify;
+    text-transform: capitalize;
+    color: white;
+    text-shadow: 3px 3px 3px rgba(0, 0, 0, 1);
+    font-weight: 400;
+    font-size: 21px;
+    font-family: 'Padauk', sans-serif;
+  }
+
+  /* AKHIR BAGIAN 1 */
+
+  /* BAGIAN 2 */
+
+  #bagian-2 {
+    background-color: royalblue;
+  }
+
+  #bagian-2 img {
+    height: 350px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+  }
+
+  #bagian-2 h1 {
+    margin-top: 50px;
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
+    font-weight: bolder;
+    font-size: 50px;
+    font-family: 'Padauk', sans-serif;
+    color: white;
+  }
+
+  #bagian-2 p {
+    margin-bottom: -30px;
+    text-shadow: 3px 3px 3px rgba(0, 0, 0, 1);
+    font-weight: 400;
+    font-size: 21px;
+    text-transform: capitalize;
+    text-align: justify;
+    font-family: 'Padauk', sans-serif;
+    color: white;
+  }
+
+  #bagian-2 .responsive {
+    height: 300px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
+  }
+
+  /* AKHIR BAGIAN 2 */
+
+  /* BAGIAN 3 */
+
+  #bagian-3 {
+    background-color: royalblue;
+  }
+
+  #bagian-3 img {
+    height: 270px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
+  }
+
+  #bagian-3 h1 {
+    margin-top: 100px;
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
+    font-weight: bolder;
+    font-size: 50px;
+    font-family: 'Padauk', sans-serif;
+    color: white;
+  }
+
+  #bagian-3 p {
+    margin-bottom: -30px;
+    text-shadow: 3px 3px 3px rgba(0, 0, 0, 1);
+    font-weight: 400;
+    font-size: 21px;
+    text-transform: capitalize;
+    text-align: justify;
+    font-family: 'Padauk', sans-serif;
+    color: white;
+  }
+
+  /* AKHIR BAGIAN 3 */
+
+  /* BAGIAN 4 */
+
+  #bagian-4 {
+    background-color: royalblue;
+  }
+
+  #bagian-4 img {
+    height: 350px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
+  }
+
+  #bagian-4 h1 {
+    margin-top: 100px;
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
+    font-weight: bolder;
+    font-size: 50px;
+    font-family: 'Padauk', sans-serif;
+    color: white;
+  }
+
+  /* AKHIR BAGIAN 4 */
+
+  /* BAGIAN 5 */
+
+  #bagian-5 {
+    margin-top: -50px;
+    background-color: royalblue;
+  }
+
+  #bagian-5 h1 {
+    margin-top: 100px;
+    color: white;
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
+    font-weight: bolder;
+    font-size: 50px;
+    font-family: 'Padauk', sans-serif;
+  }
+
+  #bagian-5 p {
+    text-align: justify;
+    text-transform: capitalize;
+    color: white;
+    text-shadow: 3px 3px 3px rgba(0, 0, 0, 1);
+    font-weight: 400;
+    font-size: 21px;
+    font-family: 'Padauk', sans-serif;
+  }
+
+  /* AKHIR BAGIAN 5 */
+
+  /* BAGIAN 6 */
+
+  #bagian-6 {
+    margin-top: -50px;
+    background-color: royalblue;
+  }
+
+  #bagian-6 h1 {
+    margin-top: 100px;
+    color: white;
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
+    font-weight: bolder;
+    font-size: 50px;
+    font-family: 'Padauk', sans-serif;
+  }
+
+  #bagian-6 p {
+    text-align: justify;
+    text-transform: capitalize;
+    color: white;
+    text-shadow: 3px 3px 3px rgba(0, 0, 0, 1);
+    font-weight: 400;
+    font-size: 21px;
+    font-family: 'Padauk', sans-serif;
+  }
+
+  /* AKHIR BAGIAN 6 */
+
+  /* BAGIAN 7 */
+
+  #bagian-7 {
+    margin-top: -50px;
+    background-color: royalblue;
+  }
+
+  #bagian-7 h1 {
+    margin-top: 100px;
+    color: white;
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
+    font-weight: bolder;
+    font-size: 50px;
+    font-family: 'Padauk', sans-serif;
+  }
+
+  #bagian-7 p {
+    text-align: justify;
+    text-transform: capitalize;
+    color: white;
+    text-shadow: 3px 3px 3px rgba(0, 0, 0, 1);
+    font-weight: 400;
+    font-size: 21px;
+    font-family: 'Padauk', sans-serif;
+  }
+
+  /* AKHIR BAGIAN 7 */
+
+  /* BAGIAN 8 */
+
+  #bagian-8 {
+    margin-top: -50px;
+    background-color: royalblue;
+  }
+
+  #bagian-8 h1 {
+    margin-top: 100px;
+    color: white;
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
+    font-weight: bolder;
+    font-size: 50px;
+    font-family: 'Padauk', sans-serif;
+  }
+
+  #bagian-8 p {
+    text-align: justify;
+    text-transform: capitalize;
+    color: white;
+    text-shadow: 3px 3px 3px rgba(0, 0, 0, 1);
+    font-weight: 400;
+    font-size: 21px;
+    font-family: 'Padauk', sans-serif;
+  }
+
+  #bagian-8 img {
+    height: 300px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
+  }
+
+  /* AKHIR BAGIAN 8 */
+
+  /* BAGIAN 9 */
+
+  #bagian-9 {
+    background-image: url(img/parallax\ 3.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 0 -150px;
+  }
+
+  #bagian-9 h1 {
+    margin-top: 100px;
+    color: white;
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
+    font-weight: bolder;
+    font-size: 50px;
+    font-family: 'Padauk', sans-serif;
+  }
+
+  #bagian-9 p {
+    text-transform: capitalize;
+    color: white;
+    text-shadow: 3px 3px 3px rgba(0, 0, 0, 1);
+    font-weight: 400;
+    font-size: 21px;
+    font-family: 'Padauk', sans-serif;
+  }
+
+  /* AKHIR BAGIAN 9 */
+}
