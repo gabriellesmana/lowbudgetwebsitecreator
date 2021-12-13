@@ -103,6 +103,7 @@
 
 #bagian-2 .responsive {
   height: 180px;
+  width: 340px;
   box-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
 }
 
@@ -325,6 +326,11 @@
 
 /* AKHIR NG0DING.HTML */ /* AKHIR NG0DING.HTML */ /* AKHIR NG0DING.HTML */ /* AKHIR NG0DING.HTML */
 
+/* ------------------------------------------------------
+  ------------------------------------------------------ */
+
+/* DEKSTOP VERSION */ /* DEKSTOP VERSION */ /* DEKSTOP VERSION */ /* DEKSTOP VERSION */
+
 @media (min-width: 992px) {
   /* NAVBAR */
 
@@ -427,6 +433,7 @@
 
   #bagian-2 .responsive {
     height: 300px;
+    width: 540px;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
   }
 
