@@ -329,6 +329,29 @@
 /* ------------------------------------------------------
   ------------------------------------------------------ */
 
+/* KONTAK.HTML */ /* KONTAK.HTML */ /* KONTAK.HTML */ /* KONTAK.HTML */ /* KONTAK.HTML */
+
+#kontak-1 {
+  background-image: url(img/kontak-mobile.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+#kontak-1 h1 {
+  font-family: 'Padauk', sans-serif;
+  color: white;
+  text-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
+  font-weight: bolder;
+  font-size: 30px;
+}
+
+#kontak-1 img {
+  height: 300px;
+}
+
+/* ------------------------------------------------------
+  ------------------------------------------------------ */
+
 /* DEKSTOP VERSION */ /* DEKSTOP VERSION */ /* DEKSTOP VERSION */ /* DEKSTOP VERSION */
 
 @media (min-width: 992px) {
@@ -713,7 +736,21 @@
 
   /* KONTAK.HTML */ /* KONTAK.HTML */ /* KONTAK.HTML */ /* KONTAK.HTML */ /* KONTAK.HTML */
 
-  #bagian-kontak {
-    background-image: url();
+  #kontak-1 {
+    background-image: url(img/kontak-wallpaper.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+  }
+
+  #kontak-1 h1 {
+    font-family: 'Padauk', sans-serif;
+    color: white;
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
+    font-weight: bolder;
+    font-size: 60px;
+  }
+
+  #kontak-1 img {
+    height: 400px;
   }
 }
